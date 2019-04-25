@@ -1,0 +1,4 @@
+ M.opA() 1{  M.opA() 2{  M.opA() 3{  L.opA()  L.opA() }3  L.opA() }2  L.opA() }1 
+-----
+ M.opB() 1{  M.opB() 2{  M.opB() 3{  L.opB()  L.opB() }3  L.opB() }2  L.opB() }1 
+
